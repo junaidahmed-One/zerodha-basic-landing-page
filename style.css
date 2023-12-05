@@ -1,0 +1,62 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 100px;
+  padding-right: 100px;
+  box-shadow: 2px 1px 2px #eee;
+  padding-bottom: 20px;
+}
+
+.navbar-actions {
+  display: flex;
+  justify-content: space-between;
+}
+
+.actions {
+  padding: 20px;
+  cursor: pointer;
+  color: #444;
+}
+
+.actions:hover {
+  color: #387ed1;
+}
+
+.landing-page-img {
+  display: flex;
+  justify-content: center;
+  padding-top: 10px;
+}
+
+.last-second {
+  display: flex;
+  justify-content: center;
+  font-weight: 500;
+}
+
+.last {
+  display: flex;
+  justify-content: center;
+  font-weight: 400;
+}
+
+.button-signup {
+  display: flex;
+  justify-content: center;
+}
+
+.signup {
+  background-color: #387ed1;
+  padding-top: 10px;
+  padding-right: 30px;
+  padding-bottom: 10px;
+  padding-left: 30px;
+  background-color: #387ed1;
+  color: #fff;
+  cursor: pointer;
+}
+
+.signup:hover {
+  background-color: black;
+  color: fff;
+}
